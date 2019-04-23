@@ -1,0 +1,9 @@
+##xiaogaoA520
+
+1.双击运行wechat_friends_wall_For_WIN.exe文件
+
+2.弹出二维码，用微信扫一扫登录
+
+3.等待程序运行结束生产好友墙
+
+√√√
